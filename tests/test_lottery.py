@@ -1,5 +1,5 @@
 # 0.019
-from brownie import Lottery, accounts, network, 
+from brownie import Lottery, accounts, network, config
 
 
 
